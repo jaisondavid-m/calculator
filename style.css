@@ -15,9 +15,15 @@ td{
 table{
     border-radius: 10px;
 }
-#end{
-    border-radius: 0px 5px 0px 0px;
+#rightend{
+    border-radius: 0px 0px 10px 0px;
+}
+#leftend{
+    border-radius: 0px 0px 0px 10px;
 }
 h1{
     text-align: center;
+}
+#sreach{
+    border-radius: 10px 10px 0px 0px;
 }
