@@ -1,0 +1,23 @@
+button{
+    height: 32px;
+    width: 36px;
+    border-radius: 5px;
+}
+#equal{
+    background-color: lightblue;
+}
+#del{
+    background-color: red;
+}
+td{
+    background-color: black;
+}
+table{
+    border-radius: 10px;
+}
+#end{
+    border-radius: 0px 5px 0px 0px;
+}
+h1{
+    text-align: center;
+}
