@@ -1,7 +1,12 @@
 button{
-    height: 32px;
-    width: 36px;
-    border-radius: 5px;
+    height: 54px;
+    width: 75px;
+    border-radius: 10px;
+    font-size: 24px;
+}
+button:hover{
+    background-color: aqua;
+    cursor: pointer;
 }
 #equal{
     background-color: lightblue;
@@ -13,17 +18,29 @@ td{
     background-color: black;
 }
 table{
-    border-radius: 10px;
+    border-radius: 17px;
 }
 #rightend{
-    border-radius: 0px 0px 10px 0px;
+    border-radius: 0px 0px 17px 0px;
 }
 #leftend{
-    border-radius: 0px 0px 0px 10px;
+    border-radius: 0px 0px 0px 17px;
 }
 h1{
+    color:white;
+    background-color: black;
     text-align: center;
+    font-size: 60px;
+    margin-left: 310px;
+    margin-right: 310PX;
+    padding: 10px;
+    border-radius: 16px;
 }
 #sreach{
     border-radius: 10px 10px 0px 0px;
 }
+body{
+    background-image: url(bg.jpg);
+    background-size: cover;
+}
+td
